@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation or remonstrance of the injurious proceedings and inhumane cruelties of the Turks, perpetrated on the commander and company of the ship Lewis of London; with the resolved captivity of their ship, goods and person, by the men of war of Tripoli and Tunis; with their happy escape from them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77466</idno>
+            <idno type="STC">Wing B4637</idno>
+            <idno type="STC">Thomason E925_5</idno>
+            <idno type="STC">ESTC R207557</idno>
+            <idno type="EEBO-CITATION">99866601</idno>
+            <idno type="PROQUEST">99866601</idno>
+            <idno type="VID">168488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77466)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168488)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 139:E925[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation or remonstrance of the injurious proceedings and inhumane cruelties of the Turks, perpetrated on the commander and company of the ship Lewis of London; with the resolved captivity of their ship, goods and person, by the men of war of Tripoli and Tunis; with their happy escape from them.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint date from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 8 1657".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turkey --  History, Naval --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Turkey.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168488:1" rendition="simple:additions"/>
+            <head>A brief Relation or Remonſtrance of the Injurious Proceedings and Inhumane cruelties of the Turks, perpetrated on the Commander and company of the Ship <hi>Lewis</hi> of <hi>London;</hi> with the re<g ref="char:EOLhyphen"/>ſolved Captivity of their Ship, Goods and Perſons, by the Men of War of <hi>Tripoli</hi> and <hi>Tunis;</hi> with their happy eſcape from them. <add>7<hi rend="sup">ber</hi> 8 1657</add>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Illiam Ell,</hi> Commander of the Ship <hi>Lewis</hi> of <hi>London,</hi> with his ſaid ſhip at <hi>Alexandria</hi> in <hi>Egypt,</hi> about the twelfth of <hi>January</hi> laſt paſt was preſſed by the Baſſa of the ſaid place, to ſerve for tranſportation of Rice, Sugars, with other proviſions for the Grand Signiers ac<g ref="char:EOLhyphen"/>count, from the ſaid Port of <hi>Alexandria,</hi> to <hi>Conſtantinople</hi> or <hi>Smyrna,</hi> which of the two (might with moſt conveniency and ſecurity from the <hi>Venetian</hi> Armata) be firſt arrived to, with contract for the ſumme of Rials of 8/8 6550. for ſuch goods
+<pb n="2" facs="tcp:168488:2"/>as the Turks ſaid they would lade; and for the reſt of his ſhips burden, he was to lade himſelf or diſpoſe of as he pleaſed.</p>
+            <p>The ſaid Captain and ſhip thus forced and ingaged, the Turks (contrary to the ſaid contract) keep them from the 12 of <hi>January</hi> till the 18 of <hi>April,</hi> (with promiſe of conſideration for demurrage or loſs of time) they detaining him onely for their own convenience. At laſt diſmiſs him (with breach of contract too) both in quantity and quality of the goods promi<g ref="char:EOLhyphen"/>ſed to be laden) without payment of any part of his fraight, or the leaſt allowance for his ſo long attendance.</p>
+            <p>The Captain thereupon demanding compliance, with con<g ref="char:EOLhyphen"/>tract for fraight and demurrage, is anſwered with threats of chains and captivity, if he forthwith depart not with two French ſhips, which they had in like manner forced to ſerve for Convoy of divers Turkiſh veſſels which were ready to de<g ref="char:EOLhyphen"/>part with us, putting on board of us (amongſt other Turks) an Officer called <hi>Capagee</hi> to order us (as it ſhould ſeem) ac<g ref="char:EOLhyphen"/>cording to Inſtructions given him, whereof we know nothing, ſave to ſail directly to <hi>Conſtantinople</hi> or <hi>Smyrna.</hi>
+            </p>
+            <p>The ſaid Turkiſh Officer or Capagee (ſo ſoon as we were gotten into the height of the Iſland of <hi>Rhodes</hi>) commanded us in the Grand Seigniers name, of bear in for that Port (when we had a fair wind to ſail on towards <hi>Smyrna</hi>) and the 28 of <hi>April</hi> we came into <hi>Rhodes</hi> with all our Fleet, ſave the bigger of the French ſhips, which left us two dayes before; nor could we hear what became of him.</p>
+            <p>In the Port of <hi>Rhodes</hi> we found the Captain Baſſa (or Ge<g ref="char:EOLhyphen"/>neral or the Grand Signiers Naval forces) with fourty four Gallyes, ſeven <hi>Tripoli,</hi> ſix <hi>Algetre,</hi> four <hi>Tunis</hi> ſhips of War; here we are conſigned into the Baſſa's hands, and kept two moneths in worſe condition (for blows of all ſorts, with wea<g ref="char:EOLhyphen"/>pons and other wayes) then the very Gally-Slaves, and were reduces to want to all proviſions, ſave bread onely, without money to help our ſelves; nor durſt we go on ſhore to procure it. And beſides all our perſonal ſufferings (and making us row them with our boats where any of them pleaſed for the pay of blows and abuſes) we were threatned by thoſe of <hi>Tripoli</hi> and <hi>Tunis,</hi> that ſo ſoon as the Grand Signiers goods were out of
+<pb n="3" facs="tcp:168488:2"/>our ſhip, they would not onely have two youths of ours (which they had ſaid wait for, to ſatisfie their inhumane, unnaturall Luſt) but alſo would be Maſter of our ſhip, goods and men, or they would ſet fire of us, though it were in Port; nor were thoſe words onely looſely ſpoken as ſimply bravado's, but reſolutions confirmed to us by ſome Jews paſſengers with us, who conver<g ref="char:EOLhyphen"/>ſing with them on ſhore, advertiſed our Captain of the ſame; adviſing him to provide for the ſecurity of his ſhip, perſon, and goods.</p>
+            <p>Notwithſtanding all which, and our ſhips being ſo leek (by reaſon of a ſtroke on a wrack as we came out of <hi>Alexandria</hi>) that our pumps went continually, we yet ſailed after the Baſſa and his Fleet to the Iſland of <hi>Stangue,</hi> where they then told us we muſt go to <hi>Mettelina</hi> (an Iſland 'twixt <hi>Conſtantinople</hi> and <hi>Smyrna</hi>) there to deliver all our goods, as well belong<g ref="char:EOLhyphen"/>ing to ſtrangers as to our ſelves, and fit our ſhip to ſerve amongſt them againſt the <hi>Venetians:</hi> to which anſwer was made that the Captain was under obligation to ſeveral Mer<g ref="char:EOLhyphen"/>chants to carry their goods to <hi>Smyrna,</hi> that his ſhip (as they ſaw) was leek and unſerviceable, wherefore he deſired he might be diſmiſſed to make all poſſible haſte to <hi>Smyrna,</hi> left the ſhip might founder under him, and all be loft. But no reaſon will ſerve, follow them we muſt, whither they pleaſe to lead us, till a fit conjuncture to make us a prey to the Barbarians, whom the Baſſa is forced to humour, fearing their power, and want<g ref="char:EOLhyphen"/>ing their aid, in this ſo great exigent againſt the <hi>Venetians.</hi>
+            </p>
+            <p>By this time the French Captain and the Mariners of each our ſhips had certain notice of the deſign which the <hi>Tripoli</hi> and <hi>Tunis</hi> men of war had on us both, and came to our Captain to give account of what they were too much aſſured, and wiſhed him (as they intended to do) to provide for the preſervation of himſelf, his people and goods.</p>
+            <p>In this great ſtrait, not having much time to conſider, nor others to conſult then our own abuſed Officers and Mari<g ref="char:EOLhyphen"/>ners, (all ſtruck with deep apprehenſion of our greater approch<g ref="char:EOLhyphen"/>ing miſeries) after craving Gods aſſiſtance and direction, the Captain reſolves all difficulties and expedients: And firſt,</p>
+            <p n="1">1. That he had left a conſiderable part of his ſtock at <hi>Alexan<g ref="char:EOLhyphen"/>dria,</hi>
+               <pb n="4" facs="tcp:168488:3"/>with all the freight (or pay) due to him for the preſent ſer<g ref="char:EOLhyphen"/>vice vice to the value of Rials 8/8 20000 or thereabouts, to provide lading for his ſhip againſt his return from <hi>Smyrna</hi> thither, and that he had in his ſhip the value of other Rials 8/8 25000. or thereabouts (for his own and owners account) in goods no where vendable ſave in Turkey (or at beſt of little value in any part of Chriſtendome) and therefore he not going into Turky, would be the certain loſs of all the <hi>Alexandria</hi> ſtock, with a very great part of that in the ſhip.</p>
+            <p n="2">2. That if he ſhould eſcape from the Fleet and go for <hi>Smyrna</hi> (whither 'twas probable his now mutinied Marriners were likeſt to be perſwaded to go) That then for diſobeying the Generals command of going to <hi>Metelina,</hi> (and under pre<g ref="char:EOLhyphen"/>tence of the Grand Signieurs diſ-ſervice) the General might make life and goods a prey to his fury and avarice.</p>
+            <p n="3">3. That if he ſhould go with them to <hi>Metelina,</hi> and un<g ref="char:EOLhyphen"/>lade all there, our goods would be imbezelled and loſt, we ha<g ref="char:EOLhyphen"/>ving none there to take care of any thing, nor any one of lan<g ref="char:EOLhyphen"/>guage to ſpeak for us, if we ſhould be kept amongſt them to ſerve againſt the Venetians, and by accident ſhould be taken by them, there could be no better expected then loſs of ſhip, and captivity of perſons; as it befell Captain <hi>Merſie</hi> in the ſhip <hi>Peter,</hi> about two years ſince.</p>
+            <p n="4">4. That a French Captain which went away from <hi>Alex<g ref="char:EOLhyphen"/>andria</hi> about four dayes before us, beſides loſs of all was taken and hanged by the Venetian General, onely for bringing pro<g ref="char:EOLhyphen"/>viſions to the Turks, and hereof we had notice at <hi>Rhodes.</hi>
+            </p>
+            <p n="5">5. That againſt this deſperate deſtructive reſolution of the Barbarian Corſares to make prize of his, our perſons and goods, we could have little hope of protection from the Ca<g ref="char:EOLhyphen"/>ptain Baſſa or General, for that five dayes before we arri<g ref="char:EOLhyphen"/>ved at <hi>Rhodes,</hi> the ſaid ſeven ſhips of <hi>Tripoli</hi> (which were then in the Grand Seignieurs ſervice, and had received their pay before they came out of <hi>Tripoli,</hi> which notwithſtanding) did near <hi>Candia</hi> ſeize on the ſhip <hi>Reſolution</hi> of <hi>London,</hi> Captain <hi>Thomas</hi> on his way towards <hi>Scandarone,</hi> with the value of Rials of 8/8 100000 in ready money and goods for the account of our Merchants, and made ſale of our ſhip, perſons and goods at
+<pb n="5" facs="tcp:168488:3"/>
+               <hi>Rhodes,</hi> in the preſence of the Grand Seignieur and Armate, which ought to have protected our ſhip, men and goods, and releaſed all according to our Capitulations, had the <hi>Tripoli</hi> ſhip been ſimply in the capacity of Barbarian Rovers, and much more being in the Grand Seignieurs pay, and conſequent<g ref="char:EOLhyphen"/>ly of is own Navy.</p>
+            <p>The whole premiſſes conſidered, with the aſſurances (the French Captain and Officers affirmed they had from very good hands of the inevitable deſtruction which was deſigned for us; together with the general Reſolution of our men not to run themſelves further into an apparent miſery which was yet a<g ref="char:EOLhyphen"/>voidable; we on the 6 of <hi>July,</hi> near the Iſle of <hi>Samos,</hi> took our opportunity to leave the Turks in the night; and by Gods bleſſing on the 28 of <hi>July</hi> we arrived at <hi>Livorne,</hi> for which great deliverance, the good &amp; provident Lord be for ever bleſſed; our Captain and all with him humbly conceived, that God directed them to the moſt Chriſtian and prudent expedient for the pre<g ref="char:EOLhyphen"/>ſervation of ſo many Chriſtians, eſtates, liberties and lives, which otherwiſe muſt inevitably have periſhed, with their poor fami<g ref="char:EOLhyphen"/>lies depending on them all whom may now by Gods providence live to ſerve their Countrey.</p>
+            <p>We are now informed that ſome officious perſons here, cla<g ref="char:EOLhyphen"/>mour high, condemning this our act, as like to be prejudicial to the eſtate in Turkey; and that therefore they would endeavour to procure the great Dukes denial of us the uſual priviledge of his free Port. And that we ſhall neither have reception nor pro<g ref="char:EOLhyphen"/>tection, but would inforce us to return into the Barbarians hands, from which God hath ſo graciouſly delivered us; but had the perteſt of thoſe critical pretenders been under the ſame diſtreſs, they would queſtionleſs have conſidered with us that life being the moſt deſirable of all temporal good <hi>(For skin for skin and all that a man hath he will give for his life)</hi> next liber<g ref="char:EOLhyphen"/>ty and eſtate, which makes our being a comfortable wel-being; and then the reputation of juſtice and prudence, which are mans chiefeſt ornaments and accompliſhments, and all theſe at brink of inevitable ruine, and but one onely way left to eſcape it. It is believed they would have concluded with us that preſervation of all was prepoſeable unto ſelf-felony, ſelf-be<g ref="char:EOLhyphen"/>traying
+<pb n="6" facs="tcp:168488:4"/>of liberty and eſtates (with the wel-being of all our deareſt relations) in fidelity to the truſt repoſed in us, by whom imployed us, and forfeiture of the repute of prudent, or able to manage, imputation of all which muſt neceſſarily have been incured, had we not uſed this onely means to ſave what elſe had been totally loſt.</p>
+            <p>And for jealouſie of prejudice to the eſtate in Turkey. The Tenth Article of our capitulation provides as followeth; <hi>viz.</hi> That no Engliſh-mans perſon or eſtate (except of ſuch as have become ſureties by publick Act) ſhall be liable to the debt or default of any other, and queſtionleſs the Lord Embaſſadour with his power and authority will have better account of Capi<g ref="char:EOLhyphen"/>tulations from a Council of State, where things are calmly debated, that all parties may be underſtood, then poor men could have had when in the hands of mercileſs Barbarians, who had determined our general deſtruction; beſides the two youths which were committed to our Captains Tuition (for education as well in Chriſtianity, as in abilities to be ſerviceable to their Countrey; he was as willing to preſerve from being forced (by cruelties) to turn Turk, or ſuffering other unſpeak<g ref="char:EOLhyphen"/>able abuſes; As <hi>Lot</hi> was to incur inconveniencies to himſelf rather then to expoſe his two ſtrangers (once retired under his roof and protection) to the abuſe of thoſe (and theſe are no leſs) <hi>Nefarious</hi> Sodomites, who at <hi>Rhodes</hi> violated two Greek youths belonging to the Gallies, for which ſome of the ſoul<g ref="char:EOLhyphen"/>diers (who were the inſtruments of bearing them away) were hanged, but the youths could never be recovered out of the hands of the Barbarian Captain who had them; So little theſe Monſters value the Baſſa's authority. But not to be trouble<g ref="char:EOLhyphen"/>ſome with much more which might be ſaid: The ſumme of all is ſelf-preſervation, natural and rational, and when that's at ſtake (which ſuch a train of dependences as attended this caſe of ours) 'Tis humbly conceived, that all other circumſtances (nay even legalities themſelves) are not conſiderable; and if in or<g ref="char:EOLhyphen"/>der to ſelf-preſervation, a <hi>Moſes</hi> obſcured himſelf, a <hi>David</hi> feigned madneſs &amp; a <hi>Paul</hi> eſcaped out of a window in a basket; It may be hoped there's nothing in this act of ours contrary to Canon or civil right. And to take of all ſuppoſitions of making
+<pb n="7" facs="tcp:168488:4"/>any advantage of the Turks goods, It is deſired that the intereſ<g ref="char:EOLhyphen"/>ſed in the ſhip would become ſecurity to his Highneſs the Lord Protector, that juſt account ſhall be rendred of all that belongs to the Turks; and that the ballance due to them ſhall likewiſe be depoſited in the hands of whomſoever his Highneſs may think fit to appoint to be diſpoſed accordingly, after the caſe is more fully examined, controverted and judged; for we deſire to give a good account of our ſelves in all particulars, to enjoy our Countrey and friends, and with our perſons and ſubſtance to ſerve his Highneſs and the State, as our Captain and many of us in the ſame ſhip did, on the engagement with the Dutch before <hi>Livorne,</hi> under Captain <hi>Badiley,</hi> to the knowledge of all the <hi>Levant</hi> Company, in whoſe ſervice our Captain hath been imployed ever ſince his childhood; nor hath any other way of livelihood, ſave by the ſervice of his friends in the <hi>Levant</hi> Navigation. And therefore humbly de<g ref="char:EOLhyphen"/>ſires that this Caſe may have gracious audience, and himſelf and company acquitted or condemned according to the merit of it.</p>
+            <p>And in the mean time we further pray, that the intereſſed in the ſhip would become petitioners to his Highneſs for his Let<g ref="char:EOLhyphen"/>ter to the great Duke of <hi>Tuſcany,</hi> that we may with the uſual freedom of his Port, buy, ſell, and receive our dues without oppreſſion or moleſtation from any pretenders whatſoever; That we may not be neceſſitated to any reſolutions unworthy our Chriſtian profeſſion, or our Nation.</p>
+            <p>And laſtly, it is humbly deſired, That this our caſe may be repreſented to his Highneſs in the ſame dreſs it comes to you, for ſimple attire beſt becomes ſo ſad a truth, which (with our ſelves) we with all humility, proſtrate at his Highneſs feet, with prayers for his length of happy dayes.</p>
+            <closer/>
+            <postscript>
+               <p>This Remonſtrance with a Petition to his Highneſs the Lord Protector, was delivered to Mr Se<g ref="char:EOLhyphen"/>cretary <hi>Thurloe,</hi> Wedneſday laſt, being the ſecond day of <hi>September.</hi> 1657.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
